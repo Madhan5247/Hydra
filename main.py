@@ -8,7 +8,6 @@ from face_recognition import Face_Recognition
 from attendance import Attendance
 from developer import Developer
 import os
-from helpsupport import Helpsupport
 
 class Face_Recognition_System:
     def __init__(self,root):
